@@ -20,9 +20,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm i
+        run: npm install
       - name: Build website
-        run: npm start
+        run: docusaurus start
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
