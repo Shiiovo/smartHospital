@@ -16,6 +16,6 @@ sidebar_position: 1
 - pkl模型保存
 - Flink+Kafka+Zookeeper实时计算
 - 知识图谱
-- Selenium彪虫框架
+- Selenium爬虫框架
 - 分布式管理系统HDFS
 - 离线计算SQOOP+HIVE
