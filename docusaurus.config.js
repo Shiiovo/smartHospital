@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '医智云联开发文档',
+  title: '智慧医疗开发文档',
   tagline: '基于大数据开发的智慧医疗系统',
   favicon: 'img/favicon.ico',
 
