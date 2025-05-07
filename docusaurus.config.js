@@ -18,12 +18,12 @@ const config = {
   url: 'https://Shiiovo.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/<smartHospital>/',
+  baseUrl: '/smartHospital/',
 
   // GitHub Pages 部署配置
   organizationName: 'Shiiovo', // GitHub 用户名或组织名
   projectName: 'smartHospital', // 仓库名称
-  deploymentBranch: 'main', // 对于用户/组织站点是 'main'，对于项目站点通常是 'gh-pages'
+  deploymentBranch: 'gh-pages', // 对于用户/组织站点是 'main'，对于项目站点通常是 'gh-pages'
   trailingSlash: true,
 
   onBrokenLinks: 'throw',
