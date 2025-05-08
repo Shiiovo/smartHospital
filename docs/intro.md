@@ -10,12 +10,15 @@ sidebar_position: 1
 
 - SpringBoot+VUE
 - OpenCV图像处理
-- 深度学习神经网络
 - NLP自然语言处理
 - 机器学习SKlearn
-- pkl模型保存
 - Flink+Kafka+Zookeeper实时计算
 - 知识图谱
 - Selenium爬虫框架
 - 分布式管理系统HDFS
 - 离线计算SQOOP+HIVE
+- Docker镜像管理
+- ModelScope大模型微调
+- Ollama大模型管理
+
+## 架构图
