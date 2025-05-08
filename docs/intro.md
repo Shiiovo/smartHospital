@@ -10,6 +10,7 @@ sidebar_position: 1
 
 - SpringBoot+VUE
 - OpenCV图像处理
+- 深度学习神经网络
 - NLP自然语言处理
 - 机器学习SKlearn
 - Flink+Kafka+Zookeeper实时计算
@@ -20,5 +21,3 @@ sidebar_position: 1
 - Docker镜像管理
 - ModelScope大模型微调
 - Ollama大模型管理
-
-## 架构图
