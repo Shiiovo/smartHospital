@@ -21,3 +21,4 @@ sidebar_position: 1
 - Docker镜像管理
 - ModelScope大模型微调
 - Ollama大模型管理
+![项目架构图](../static/img/项目架构图.jpg)
